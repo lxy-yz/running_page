@@ -2,17 +2,13 @@ module.exports = {
   pathPrefix: '/running_page', // Change to `/running_page` when running on github pages
   siteMetadata: {
     siteTitle: 'Running Page',
-    siteUrl: 'https://yihong.run',
+    siteUrl: 'https://run.liallen.me',
     logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
-    description: 'Personal site and blog',
+    description: 'Personal running page',
     navLinks: [
       {
-        name: 'Blog',
-        url: 'https://yihong.run/running',
-      },
-      {
-        name: 'About',
-        url: 'https://github.com/yihong0618/running_page/blob/master/README-CN.md',
+        name: 'Home',
+        url: 'https://run.liallen.me',
       },
     ],
   },
