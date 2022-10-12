@@ -7,8 +7,12 @@ module.exports = {
     description: 'Personal running page',
     navLinks: [
       {
+        name: 'Blog',
+        url: 'https://blog.liallen.me',
+      }, 
+      {
         name: 'Home',
-        url: 'https://run.liallen.me',
+        url: 'https://liallen.me',
       },
     ],
   },
