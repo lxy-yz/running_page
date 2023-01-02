@@ -23,6 +23,7 @@ const Layout = ({ children }) => {
       </Helmet>
       <Header title={siteTitle} />
       <div className="pa3 pa5-l">{children}</div>
+      <script defer data-domain="run.liallen.me" src="https://plausible.liallen.me/js/script.js"></script>
     </div>
   );
 };
